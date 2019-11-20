@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{@types/chai, @types/express, @types/jest, @types/mocha, @types/node, @types/resemblejs, @types/supertest}" />
+    <file url="PROJECT" libraries="{@types/body-parser, @types/chai, @types/express, @types/jest, @types/mocha, @types/mongodb, @types/mongoose, @types/node, @types/resemblejs, @types/supertest}" />
     <includedPredefinedLibrary name="HTTP Response Handler" />
   </component>
 </project>

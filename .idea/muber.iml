@@ -15,5 +15,8 @@
     <orderEntry type="library" name="@types/node" level="application" />
     <orderEntry type="library" name="@types/resemblejs" level="application" />
     <orderEntry type="library" name="@types/supertest" level="application" />
+    <orderEntry type="library" name="@types/body-parser" level="application" />
+    <orderEntry type="library" name="@types/mongoose" level="application" />
+    <orderEntry type="library" name="@types/mongodb" level="application" />
   </component>
 </module>
